@@ -20,7 +20,8 @@ Testing
   Chai
   Karma
   Enzyme
-  babel
+  Babel
+  Jsdom
 
 package.json
 {
