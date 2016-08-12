@@ -2,9 +2,24 @@
 Embedded UI
 
 REACT
+  React dev tools for chrome dev
+  pretty diff
+  react debug
+  
 
-NODEJS
+NODEJS/NPM
 
+SEC
+  CSRF
+  XSS
+  CSP
+
+
+Testing
+  Mocha
+  Chai
+  Karma
+  Enzyme
 
 package.json
 {
